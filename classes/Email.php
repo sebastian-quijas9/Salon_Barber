@@ -30,8 +30,8 @@ class Email
         $mail->Username = $_ENV['EMAIL_USER'];
         $mail->Password = $_ENV['EMAIL_PASS'];
 
-        $mail->setFrom('cuentas@appsalon.com');
-        $mail->addAddress('cuentas@appsalon.com', 'AppSalon.com');
+        $mail->setFrom('mkt@ssdevsolutions.com');
+        $mail->addAddress('squijas@appsalon.com', 'ssdevsolutions.com');
         $mail->Subject = 'Confirma tu Cuenta';
 
         // Set HTML
