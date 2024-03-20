@@ -10,6 +10,7 @@
 
     .imagen {
         height: 20rem;
+        background: rgba(0, 0, 0, 0.5); /* Color de fondo semitransparente (negro con 50% de opacidad) */
         background-image: url(../img/1.jpg);
         background-size: cover;
         background-position: center center;
