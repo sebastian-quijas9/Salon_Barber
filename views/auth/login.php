@@ -1,4 +1,4 @@
-<h1 class="nombre-pagina">ssds</h1>
+<img src="../../public/build/img/1.jpg" alt="SSDS">
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
