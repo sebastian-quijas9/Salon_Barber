@@ -1,4 +1,4 @@
-<h1 class="nombre-pagina">SSDS</h1>
+<h1 class="nombre-pagina">ssds</h1>
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
