@@ -9,16 +9,16 @@
 // }
 
 
-// .contenedor-app {
+.contenedor-app {
 
-//     .imagen {
-//             height: 20rem;
-//             background: rgba(0, 0, 0, 0.5); /* Color de fondo semitransparente (negro con 50% de opacidad) */
-//             background-image: url(../img/1.jpg);
-//             background-size: cover;
-//             background-position: center center;
-//             @include m.tablet {
-//                 height: auto;
-//             }
-//         }
-//     }
+    .imagen {
+            height: 20rem;
+            background: rgba(0, 0, 0, 0.5); /* Color de fondo semitransparente (negro con 50% de opacidad) */
+            background-image: url("https://firebasestorage.googleapis.com/v0/b/ssds-img.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).jpg?alt=media&token=0efef9d3-fa59-490d-babf-09f79a2b21b2");
+            background-size: cover;
+            background-position: center center;
+            @include m.tablet {
+                height: auto;
+            }
+        }
+    }
