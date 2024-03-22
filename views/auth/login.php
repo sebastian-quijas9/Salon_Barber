@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/ssds-img.appspot.com/o/29c67351-846a-4118-9ca0-f69452aff5f5.jpg?alt=media&token=e3d7a91b-32a9-410c-bee9-eaf02aa732f6" alt="SSDS">
+<img src="https://firebasestorage.googleapis.com/v0/b/ssds-img.appspot.com/o/log.png?alt=media&token=a7a3bf9d-0f8e-42d7-acd4-b36d6db47ac7" width="30%" alt="SSDS">
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
