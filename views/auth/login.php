@@ -1,4 +1,4 @@
-<img src="../../public/build/img/1.jpg" alt="SSDS">
+<img src="ruta_de_la_imagen.jpg" alt="SSDS">
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
