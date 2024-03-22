@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/build/css/app.css">
 </head>
 
-<body class="bg-light">
+<body class="bg-light" style="background-image: url('https://firebasestorage.googleapis.com/v0/b/ssds-img.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).jpg?alt=media&token=0efef9d3-fa59-490d-babf-09f79a2b21b2'); background-size: cover;">
     <div class="contenedor-app container py-5 my-5">
         <div class="row justify-content-center">
             <div class="col-md-8">
