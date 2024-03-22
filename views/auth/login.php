@@ -1,4 +1,4 @@
-<div class="logo_ssds"></div>
+<img src="https://img.freepik.com/fotos-premium/colegial-triste-imagen-3d-fondo-colorido-ai-generativo_58409-28910.jpg?w=740" alt="SSDS">
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
