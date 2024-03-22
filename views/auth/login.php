@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/fotos-premium/colegial-triste-imagen-3d-fondo-colorido-ai-generativo_58409-28910.jpg?w=740" alt="SSDS">
+<img src="https://firebasestorage.googleapis.com/v0/b/ssds-img.appspot.com/o/Principal2.png?alt=media&token=27405ea2-e26e-4486-86af-bf0e091eb726" alt="SSDS">
 <p class="descripcion-pagina">Inicia sesión con tus datos</p>
 
 <?php 
